@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Group Bot Setup"
+  short_description: "Create, configure, and install a Feishu group bot."
+  default_prompt: "Help me create a customized Feishu bot and add it to my group."
